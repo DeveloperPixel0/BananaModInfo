@@ -19,6 +19,30 @@
     "group": "Mods",
   },
   {
+    "name": "CB_Capuchin",
+    "author": "Bingus",
+    "git_path": "CapuchinModding/CB_Cardboard",
+    "group": "Libraries",
+  },
+  {
+    "name": "Caputilla",
+    "author": "Monky",
+    "git_path": "MonkyGT/Caputilla",
+    "group": "Libraries",
+  },
+  {
+    "name": "Fly",
+    "author": "Instel",
+    "git_path": "Instel12/Capuchin-Size-Changer",
+    "group": "Mods",
+  },
+  {
+    "name": "Size Changer",
+    "author": "Instel",
+    "git_path": "Instel12/Capuchin-Fly",
+    "group": "Mods",
+  },
+  {
     "name": "PDM",
     "author": "HanSolo1000Falcon",
     "git_path": "HanSolo1OOOFalcon/Photograph-Device-Modification",
