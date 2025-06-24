@@ -10,42 +10,54 @@
     "author": "Monky",
     "git_path": "MonkyGT/Il2CppInteropForCapuchin",
     "install_location": "BepInEx/core",
-    "group": "Core",
+    "group": "Core"
   },
   {
     "name": "Banapuchin",
     "author": "HanSolo1000Falcon",
     "git_path": "HanSolo1OOOFalcon/Banapuchin",
-    "group": "Mods",
+    "group": "Mods"
   },
   {
     "name": "CB_Capuchin",
     "author": "Bingus",
     "git_path": "CapuchinModding/CB_Capuchin",
-    "group": "Libraries",
+    "group": "Libraries"
   },
   {
     "name": "Caputilla",
     "author": "Monky",
     "git_path": "MonkyGT/Caputilla",
-    "group": "Libraries",
+    "group": "Libraries"
   },
   {
     "name": "Fly",
     "author": "Instel",
     "git_path": "Instel12/Capuchin-Size-Changer",
-    "group": "Mods",
+    "group": "Mods"
   },
   {
     "name": "Size Changer",
     "author": "Instel",
     "git_path": "Instel12/Capuchin-Fly",
-    "group": "Mods",
+    "group": "Mods"
   },
   {
     "name": "PDM",
     "author": "HanSolo1000Falcon",
     "git_path": "HanSolo1OOOFalcon/Photograph-Device-Modification",
-    "group": "Tweaks",
+    "group": "Tweaks"
+  },
+  {
+    "name": "Real 0G",
+    "author": "Instel",
+    "git_path": "Instel12/Real-0G",
+    "group": "Mods"
+  },
+  {
+    "name": "NoMoreLoadingScreen",
+    "author": "Biotest",
+    "git_path": "biotest052/NoMoreLoadingScreen",
+    "group": "Tweaks"
   }
 ]
